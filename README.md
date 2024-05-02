@@ -1,13 +1,35 @@
 # 💫 About Me:
-¡Hola de nuevo! Soy Sebastian Nicolas, un desarrollador con experiencia en la configuración de servidores NGINX y la implementación de seguridad SSL/TLS en combinación con servicios como Cloudflare.<br><br>En mi trayectoria profesional, he trabajado en la configuración de NGINX como servidor web y como proxy inverso, aprovechando su capacidad para gestionar el tráfico y mejorar el rendimiento de las aplicaciones web. Además, he implementado soluciones de seguridad mediante certificados SSL/TLS para garantizar la confidencialidad y autenticidad de las comunicaciones.<br><br>Además, tengo experiencia en el uso de Cloudflare, un servicio de red de distribución de contenido (CDN) y protección DDoS. A través de Cloudflare, he configurado y optimizado la entrega de contenido estático, acelerando la carga de las páginas y mejorando la experiencia del usuario. También he trabajado en la configuración de SSL/TLS a través de Cloudflare, aprovechando sus funcionalidades de protección y mitigación de amenazas.<br><br>Al combinar NGINX y Cloudflare, he logrado establecer una infraestructura sólida y segura para mis proyectos, garantizando la disponibilidad y la protección contra amenazas.<br><br>Si deseas obtener más información sobre mis proyectos y contribuciones en GitHub relacionadas con NGINX, Cloudflare, SSL y TLS, te invito a explorar mi perfil. Estoy emocionado de compartir mi experiencia y conocimientos en estas áreas.
+¡Hola! Soy Sebastian Nicolas, un desarrollador de software apasionado por la creación de soluciones innovadoras y de alta calidad. Con una formación en Desarrollo de Software y (1) año de experiencia en diversos proyectos, estoy comprometido con el aprendizaje continuo y la mejora constante en el campo de la tecnología.
 
+## Habilidades Técnicas
 
+- Lenguajes: Java, JavaScript, TypeScript, Rust.
+- Desarrollo Web: Next.js, Svelte, TypeScript, TailwindCSS, Storybook.
+- Desarrollo de Aplicaciones de Escritorio: JavaFX, Tauri.
+- Bases de Datos: MySQL, MariaDB.
+- Frameworks y Tecnologías: Spring Boot, jQuery, Tokio.rs.
+- DevOps: Docker, Google Cloud.
+
+## Proyectos Destacados
+
+- **Versión Web de Aplicación Empresarial:** Estoy colaborando en el desarrollo de una versión web de una aplicación empresarial utilizando Spring Boot y jQuery, Desarrollando modulos los cuales ya estan en producción.
+
+- **Automatización de Actualización de Aplicaciones en Java:** Desarrollé una aplicación para actualizar e instalar automáticamente aplicaciones en Java utilizando tecnologías modernas como Rust, SvelteKit y S3 Buckets, mejorando la eficiencia y la experiencia del usuario.
+
+## Aptitudes Blandas
+
+Mi enfoque en la curiosidad innata, la investigación exhaustiva y la planificación meticulosa me ha permitido abordar desafíos técnicos con confianza y eficacia. Además, disfruto colaborar en equipos ágiles, donde puedo aportar mi experiencia y aprender de mis colegas.
+
+## Objetivos y Aspiraciones
+
+En el corto plazo, mi objetivo es establecer marcos de trabajo ágiles y promover la calidad total en mi entorno de trabajo. A largo plazo, me gustaría especializarme en el desarrollo de API RESTful, aplicando estándares estrictos para garantizar la interoperabilidad y la seguridad de los sistemas. También tengo interés en liderar el desarrollo frontend eficiente, uniendo diseñadores gráficos y desarrolladores frontend con tecnologías como Storybook y componentes React de alta calidad.
+
+## Contacto
+
+¡Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje! No dudes en contactarme a través de linkedin.
+¡Gracias por visitar mi perfil!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-nicolas-chong-06a20610a ) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zarocknc&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zarocknc&theme=default&hide_border=false)<br/>
@@ -18,5 +40,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zarocknc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
